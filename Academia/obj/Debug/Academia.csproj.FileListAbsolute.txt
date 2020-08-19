@@ -1,0 +1,10 @@
+D:\C#\Academia\bin\Debug\Academia.exe.config
+D:\C#\Academia\bin\Debug\Academia.exe
+D:\C#\Academia\bin\Debug\Academia.pdb
+D:\C#\Academia\obj\Debug\Academia.csprojAssemblyReference.cache
+D:\C#\Academia\obj\Debug\Academia.Properties.Resources.resources
+D:\C#\Academia\obj\Debug\Academia.csproj.GenerateResource.cache
+D:\C#\Academia\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+D:\C#\Academia\obj\Debug\Academia.exe
+D:\C#\Academia\obj\Debug\Academia.pdb
+D:\C#\Academia\obj\Debug\Academia.Form1.resources
